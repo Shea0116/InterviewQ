@@ -1,0 +1,109 @@
+[
+    {
+        "question": "为什么组件中没有使用 React 变量还需要引入"
+    },
+    {
+        "question": "react 组件传参"
+    },
+    {
+        "question": "受控组件和非受控组件",
+        "children": [
+            "受控组件",
+            "非受控组件"
+        ]
+    },
+    {
+        "question": "react 中 key 的作用"
+    },
+    {
+        "question": "diff 算法和虚拟dom",
+        "children": [
+            "虚拟dom",
+            "diff 算法"
+        ]
+    },
+    {
+        "question": "state 和 props 的区别"
+    },
+    {
+        "question": "生命周期"
+    },
+    {
+        "question": "合成事件"
+    },
+    {
+        "question": "高阶组件"
+    },
+    {
+        "question": "react 性能优化",
+        "children": [
+            "类组件性能优化: pureComponent、shouldComponentUpdate",
+            "函数组件性能优化",
+            "懒加载组件"
+        ]
+    },
+    {
+        "question": "react 组件懒加载"
+    },
+    {
+        "question": "setState"
+    },
+    {
+        "question": "路由两种模式的区别"
+    },
+    {
+        "question": "class组件和函数组件的区别"
+    },
+    {
+        "question": "hooks诞生的背景，为什么有class组件还要创造hooks"
+    },
+    {
+        "question": "hook 规则"
+    },
+    {
+        "question": "hook 为什么必须在组件顶层使用"
+    },
+    {
+        "question": "hook 的原理"
+    },
+    {
+        "question": "Fiber 架构",
+        "children": [
+            "Fiber 的核心概念",
+            "Fiber 的作用"
+        ]
+    },
+    {
+        "question": "Fiber 的工作流程"
+    },
+    {
+        "question": "常用hook",
+        "children": [
+            "useState",
+            "useRef",
+            "useEffect",
+            "useCallback（缓存函数）",
+            "useMemo",
+            "useContext",
+            "useReducer",
+            "useLayoutEffect：在dom更新后，浏览器绘制之前执行"
+        ]
+    },
+    {
+        "question": "自定义hook"
+    },
+    {
+        "question": "react 和 vue 的区别"
+    },
+    {
+        "question": "react 状态管理：redux",
+        "children": [
+            "redux 三大原则",
+            "redux 配合 react-redux 使用流程",
+            "react-redux",
+            "redux 中处理异步",
+            "redux-thunk",
+            "redux-saga"
+        ]
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "question": "JavaScript 数据类型",
+        "children": [
+            "null，undefined 的区别"
+        ]
+    },
+    {
+        "question": "判断变量的类型"
+    },
+    {
+        "question": "如何判断一个变量是对象还是数组",
+        "children": [
+            "如何判断一个对象是否为空对象",
+            "如何判断一个对象中是否存在某一个属性"
+        ]
+    },
+    {
+        "question": "闭包"
+    },
+    {
+        "question": "哪些操作会造成内存泄漏？"
+    },
+    {
+        "question": "垃圾回收机制"
+    },
+    {
+        "question": "原型、原型链"
+    },
+    {
+        "question": "new操作符具体干了什么呢?"
+    },
+    {
+        "question": "==和===区别是什么？"
+    },
+    {
+        "question": "事件模型"
+    },
+    {
+        "question": "JavaScript 事件代理（事件委托）"
+    },
+    {
+        "question": "this指向"
+    },
+    {
+        "question": "bind，apply，call的区别"
+    },
+    {
+        "question": "Ajax的四个步骤"
+    },
+    {
+        "question": "深拷贝和浅拷贝"
+    },
+    {
+        "question": "跨域"
+    },
+    {
+        "question": "异步加载JS的方式有哪些？"
+    },
+    {
+        "question": "js继承方式有哪些？",
+        "children": [
+            "原型链继承",
+            "构造函数继承（借用构造函数）",
+            "组合继承"
+        ]
+    },
+    {
+        "question": "Cookie、WebStorage的区别"
+    },
+    {
+        "question": "Cookie的属性"
+    },
+    {
+        "question": "作用域"
+    },
+    {
+        "question": "事件循环机制（宏任务微任务 | event loop）"
+    },
+    {
+        "question": "从输入url到获取页面的完整过程"
+    },
+    {
+        "question": "为什么外链css要放在头部，js要放在尾部"
+    },
+    {
+        "question": "数组常见方法"
+    },
+    {
+        "question": "遍历数组的方式"
+    },
+    {
+        "question": "遍历对象的方法"
+    },
+    {
+        "question": "for of 和 for in"
+    },
+    {
+        "question": "0.1 + 0.2 === 0.3？"
+    }
+]

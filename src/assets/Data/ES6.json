@@ -1,0 +1,24 @@
+[
+    {
+        "question": "es6的新特性",
+        "children": [
+            "Map对象和普通对象的区别"
+        ]
+    },
+    {
+        "question": "var、let、const区别"
+    },
+    {
+        "question": "箭头函数的特点"
+    },
+    {
+        "question": "async await函数"
+    },
+    {
+        "question": "Promise",
+        "children": [
+            "Promise 作用",
+            "Promise 的静态方法"
+        ]
+    }
+]

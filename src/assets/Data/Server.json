@@ -1,0 +1,35 @@
+[
+    {
+        "question": "GET和POST请求的区别"
+    },
+    {
+        "question": "http 和 https的区别"
+    },
+    {
+        "question": "常见状态码"
+    },
+    {
+        "question": "常见的请求头"
+    },
+    {
+        "question": "常见的响应头"
+    },
+    {
+        "question": "http 缓存",
+        "children": [
+            "强缓存",
+            "协商缓存",
+            "协商缓存为什么有 Last-Modified 还要有 ETag",
+            "浏览器加载缓存资源的流程"
+        ]
+    },
+    {
+        "question": "Web安全问题",
+        "children": [
+            "跨站脚本攻击（XSS）"
+        ]
+    },
+    {
+        "question": "TCP的三次握手和四次挥手"
+    }
+]
